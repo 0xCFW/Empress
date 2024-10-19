@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "self_tab": "Mon Joueur",
+    "network_tab": "En Ligne",
+    "vehicle_tab": "Vehicule Option",
+    "setting_tab": "Parametre",
+    "entity_interface_tab": "Entite du monde",
+    
+
+    "playerlist_tab": "Liste des joueurs",
+    "force_script_host_feature": "Devenir hote du Script"
+  }
+}
